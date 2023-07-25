@@ -9,7 +9,7 @@
 
 2. Define the Scenario: The objective is to analyze how casual riders and annual members use Cyclistic bikes differently. The insights gained will be used to create a new marketing strategy to convert casual riders into annual members.
 
-3.Obtain Datasets: Utilize 1-year Cyclistic riding data from November 2021 to October 2022 for analysis. The datasets are available for use.
+3. Obtain Datasets: Utilize 1-year Cyclistic riding data from November 2021 to October 2022 for analysis. The datasets are available for use.
 
 4. Selecting Tools: Three primary tools are employed for this project:
 a. R: Used to load, clean, transform, and analyze the data. Separate R-files are created for each month's dataset due to its large size.
