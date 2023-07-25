@@ -25,3 +25,16 @@ b. Lubridate: Used for date and time analysis.
 7. Analysis: With the help of R and the selected libraries, analyze each monthly dataset to uncover patterns and trends in how casual riders and annual members use Cyclistic bikes.
 
 8. Visualization and Reporting: The insights gained from the analysis are used to create visualizations and reports. Microsoft Power BI is employed for this purpose. Although Tableau was recommended for this project, the analyst prefers using Power BI based on their experience. However, the difference in visualization and reporting capabilities between Tableau and Power BI is stated to be minimal.
+
+## Insights 
+
+1. Member-users consistently outnumber casual-users throughout the year, except during the summer months.
+2. Casual-users reach their peak numbers during the summer, particularly in June, July (highest), and August.
+3. Member-users have two bike options: classic and electric, while casual-users have three options: classic, electric, and docked bikes.
+4. Casual-users have a significantly longer average ride-time, ranging from 23 to 33 minutes, compared to member-users who typically ride for only 11 to 13 minutes on average.
+5. The most popular start and end station for casual-users is Streeter Dr and Grand Ave.6. 
+6. Member-users' favorite start and end stations vary based on the months.
+7. Both casual-users and member-users prefer to start and end their rides at 5:00 p.m., likely due to the average ride-time being less than an hour.
+8. To convert casual-users into annual members, Cyclistic should focus on promotional events during the peak summer months: June, July (best month), and August.
+9. These events should be held at Streeter Dr and Grand Ave stations, between 5:00 p.m. to 6:00 p.m., targeting casual-users during their preferred ride times.
+10. Highlighting the benefits of membership, such as cost savings and access to exclusive bike options, can encourage casual-users to become annual members and boost Cyclistic's membership numbers.
